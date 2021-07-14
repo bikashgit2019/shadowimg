@@ -1,4 +1,4 @@
-#basic shadowimg module
+*basic shadowimg module
 
 `npm i shadowimg`
 
